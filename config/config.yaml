@@ -1,0 +1,5 @@
+defaults:
+  stakeReward: 50
+storage:
+  type: "offchain"
+  path: "data"
